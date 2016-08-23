@@ -1,4 +1,3 @@
-layout_spectrum: 0.6567001580260694
 typography_spectrum: 0.22594118793495
 color:
   brandStrength: 0.8227870657574385
@@ -6,9 +5,11 @@ color:
   saturation: 0.7777239610441029
   rhythmicContrast: 0.3486553719267249
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.6567001580260694
 name: Pietro Tomassi
+title: Pietro Tomassi
